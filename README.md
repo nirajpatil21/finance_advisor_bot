@@ -17,7 +17,7 @@ otherwise, so it works fully offline out of the box).
 - Dashboard with a live spending-by-category chart
 
 ## Project Report
-https://drive.google.com/file/d/1gS8XDkkoJS2-iHIw4OzC0JOkujwD1Lqm/view?usp=drivesdk
+https://docs.google.com/document/d/10Di4PGUNc-D8KbXIM9Nz0wkO2AFauaNx/edit?usp=sharing&ouid=103967508025943439794&rtpof=true&sd=true
 
 ## Tech Stack
 - Backend: Flask, Flask-SQLAlchemy, Flask-Login
